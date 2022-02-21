@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>human on Shuaiyu Chen</title>
+    <link>https://shuaiyu-chen.com/tags/human/</link>
+    <description>Recent content in human on Shuaiyu Chen</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>© Shuaiyu Chen 2021</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://shuaiyu-chen.com/tags/human/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Skin Cancer AI</title>
+      <link>https://shuaiyu-chen.com/project/skin-cancer-ai/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://shuaiyu-chen.com/project/skin-cancer-ai/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
