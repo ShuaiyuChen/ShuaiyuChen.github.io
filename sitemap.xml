@@ -1,227 +1,169 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://shuaiyu-chen.com/courses/example/example1/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shuaiyu-chen.com/courses/example.1/example3/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shuaiyu-chen.com/courses/example.2/example3/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shuaiyu-chen.com/courses/example.1/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shuaiyu-chen.com/courses/example.2/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shuaiyu-chen.com/courses/example/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shuaiyu-chen.com/courses/example.2/example4/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shuaiyu-chen.com/courses/example/example2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shuaiyu-chen.com/courses/example.1/example4/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shuaiyu-chen.com/publication/aiv-and-active-fund-performance/</loc>
-  </url>
-  
-  <url>
-    <loc>https://shuaiyu-chen.com/publication/institutional-investors-and-media/</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://shuaiyu-chen.com/publication/active-fund-and-market-predictability/</loc>
+    <lastmod>2022-02-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shuaiyu-chen.com/publication/fund-performance-and-idiosyncratic-volatility/</loc>
+    <lastmod>2021-06-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shuaiyu-chen.com/publication/institutional-investors-and-media-coverage/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://shuaiyu-chen.com/talk/coding/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shuaiyu-chen.com/talk/qualitative/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shuaiyu-chen.com/talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shuaiyu-chen.com/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shuaiyu-chen.com/talk/synthesizing/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://shuaiyu-chen.com/publication_types/3/</loc>
+    <lastmod>2022-02-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shuaiyu-chen.com/tags/active-mutual-fund/</loc>
+    <lastmod>2022-02-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shuaiyu-chen.com/authors/</loc>
+    <lastmod>2022-02-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shuaiyu-chen.com/tags/market-efficiency/</loc>
+    <lastmod>2022-02-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shuaiyu-chen.com/tags/market-predictability/</loc>
+    <lastmod>2022-02-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shuaiyu-chen.com/publication_types/</loc>
+    <lastmod>2022-02-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shuaiyu-chen.com/publication/</loc>
+    <lastmod>2022-02-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shuaiyu-chen.com/authors/randolph-b.-cohen/</loc>
+    <lastmod>2022-02-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shuaiyu-chen.com/authors/shuaiyu-chen/</loc>
+    <lastmod>2022-02-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shuaiyu-chen.com/tags/</loc>
+    <lastmod>2022-02-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shuaiyu-chen.com/authors/yixin-chen/</loc>
+    <lastmod>2022-02-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shuaiyu-chen.com/tags/fund-flow/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shuaiyu-chen.com/tags/institutional-investor/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shuaiyu-chen.com/tags/media-ownership/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shuaiyu-chen.com/tags/news-coverage/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shuaiyu-chen.com/authors/with-zhao-jin-and-yucheng-john-yang/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shuaiyu-chen.com/tags/active-funds/</loc>
+    <lastmod>2021-06-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shuaiyu-chen.com/tags/asset-pricing/</loc>
+    <lastmod>2021-06-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shuaiyu-chen.com/tags/idiosyncratic-volatility/</loc>
+    <lastmod>2021-06-30T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://shuaiyu-chen.com/courses/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shuaiyu-chen.com/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shuaiyu-chen.com/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shuaiyu-chen.com/project/artificial-intelligence/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shuaiyu-chen.com/tags/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shuaiyu-chen.com/project/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shuaiyu-chen.com/tags/demo/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shuaiyu-chen.com/project/external-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shuaiyu-chen.com/tags/human/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shuaiyu-chen.com/project/internal-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shuaiyu-chen.com/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shuaiyu-chen.com/project/robotics/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shuaiyu-chen.com/tags/robotics/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shuaiyu-chen.com/project/skin-cancer-ai/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shuaiyu-chen.com/tags/</loc>
-    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shuaiyu-chen.com/authors/admin/</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shuaiyu-chen.com/tags/academia/</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shuaiyu-chen.com/authors/</loc>
-    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shuaiyu-chen.com/post/</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shuaiyu-chen.com/post/short-selling/</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shuaiyu-chen.com/publication_types/3/</loc>
-  </url>
-  
-  <url>
-    <loc>https://shuaiyu-chen.com/tags/active-funds/</loc>
-  </url>
-  
-  <url>
-    <loc>https://shuaiyu-chen.com/tags/asset-pricing/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shuaiyu-chen.com/categories/</loc>
   </url>
-  
-  <url>
-    <loc>https://shuaiyu-chen.com/tags/idiosyncratic-volatility/</loc>
-  </url>
-  
-  <url>
-    <loc>https://shuaiyu-chen.com/tags/institutional-investors/</loc>
-  </url>
-  
-  <url>
-    <loc>https://shuaiyu-chen.com/tags/media-coverage/</loc>
-  </url>
-  
-  <url>
-    <loc>https://shuaiyu-chen.com/publication_types/</loc>
-  </url>
-  
-  <url>
-    <loc>https://shuaiyu-chen.com/publication/</loc>
-  </url>
-  
-  <url>
-    <loc>https://shuaiyu-chen.com/authors/shuaiyu-chen/</loc>
-  </url>
-  
-  <url>
-    <loc>https://shuaiyu-chen.com/authors/with-zhao-jin-and-yucheng-john-yang/</loc>
-  </url>
-  
 </urlset>
