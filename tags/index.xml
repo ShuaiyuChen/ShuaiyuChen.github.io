@@ -7,7 +7,7 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>© Shuaiyu Chen 2021</copyright>
-    <lastBuildDate>Wed, 12 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Mar 2023 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://shuaiyu-chen.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>exchange-traded funds</title>
       <link>https://shuaiyu-chen.com/tags/exchange-traded-funds/</link>
-      <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 12 Mar 2023 00:00:00 +0000</pubDate>
       
       <guid>https://shuaiyu-chen.com/tags/exchange-traded-funds/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title>Hedge funds</title>
       <link>https://shuaiyu-chen.com/tags/hedge-funds/</link>
-      <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 12 Mar 2023 00:00:00 +0000</pubDate>
       
       <guid>https://shuaiyu-chen.com/tags/hedge-funds/</guid>
       <description></description>
@@ -33,7 +33,7 @@
     <item>
       <title>options</title>
       <link>https://shuaiyu-chen.com/tags/options/</link>
-      <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 12 Mar 2023 00:00:00 +0000</pubDate>
       
       <guid>https://shuaiyu-chen.com/tags/options/</guid>
       <description></description>
@@ -42,9 +42,45 @@
     <item>
       <title>volatility timing</title>
       <link>https://shuaiyu-chen.com/tags/volatility-timing/</link>
-      <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 12 Mar 2023 00:00:00 +0000</pubDate>
       
       <guid>https://shuaiyu-chen.com/tags/volatility-timing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>custodian lenders</title>
+      <link>https://shuaiyu-chen.com/tags/custodian-lenders/</link>
+      <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://shuaiyu-chen.com/tags/custodian-lenders/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>market power</title>
+      <link>https://shuaiyu-chen.com/tags/market-power/</link>
+      <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://shuaiyu-chen.com/tags/market-power/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>securities lending</title>
+      <link>https://shuaiyu-chen.com/tags/securities-lending/</link>
+      <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://shuaiyu-chen.com/tags/securities-lending/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Short-selling</title>
+      <link>https://shuaiyu-chen.com/tags/short-selling/</link>
+      <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://shuaiyu-chen.com/tags/short-selling/</guid>
       <description></description>
     </item>
     
@@ -81,42 +117,6 @@
       <pubDate>Fri, 29 Jul 2022 00:00:00 +0000</pubDate>
       
       <guid>https://shuaiyu-chen.com/tags/stochastic-volatility/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>custodian lenders</title>
-      <link>https://shuaiyu-chen.com/tags/custodian-lenders/</link>
-      <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://shuaiyu-chen.com/tags/custodian-lenders/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>market power</title>
-      <link>https://shuaiyu-chen.com/tags/market-power/</link>
-      <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://shuaiyu-chen.com/tags/market-power/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>securities lending</title>
-      <link>https://shuaiyu-chen.com/tags/securities-lending/</link>
-      <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://shuaiyu-chen.com/tags/securities-lending/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Short-selling</title>
-      <link>https://shuaiyu-chen.com/tags/short-selling/</link>
-      <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://shuaiyu-chen.com/tags/short-selling/</guid>
       <description></description>
     </item>
     
