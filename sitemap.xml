@@ -35,6 +35,9 @@
     <loc>https://shuaiyu-chen.com/publication/active-fund-and-market-predictability/</loc>
     <lastmod>2022-02-18T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://shuaiyu-chen.com/publication/machine-learning-about-esg-preference/</loc>
+    <lastmod>2023-07-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://shuaiyu-chen.com/publication/mutual-fund-flows-and-investor-disappointment/</loc>
     <lastmod>2023-04-17T00:00:00+00:00</lastmod>
   </url><url>
@@ -60,10 +63,34 @@
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
     <loc>https://shuaiyu-chen.com/publication_types/3/</loc>
-    <lastmod>2023-04-17T00:00:00+00:00</lastmod>
+    <lastmod>2023-07-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://shuaiyu-chen.com/authors/</loc>
-    <lastmod>2023-04-17T00:00:00+00:00</lastmod>
+    <lastmod>2023-07-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shuaiyu-chen.com/tags/esg/</loc>
+    <lastmod>2023-07-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shuaiyu-chen.com/tags/fund-flow/</loc>
+    <lastmod>2023-07-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shuaiyu-chen.com/tags/machine-learning/</loc>
+    <lastmod>2023-07-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shuaiyu-chen.com/publication_types/</loc>
+    <lastmod>2023-07-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shuaiyu-chen.com/publication/</loc>
+    <lastmod>2023-07-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shuaiyu-chen.com/tags/</loc>
+    <lastmod>2023-07-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shuaiyu-chen.com/tags/value-added/</loc>
+    <lastmod>2023-07-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shuaiyu-chen.com/authors/with-george-o.-aragon/</loc>
+    <lastmod>2023-07-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://shuaiyu-chen.com/tags/flow-performance-sensitivity/</loc>
     <lastmod>2023-04-17T00:00:00+00:00</lastmod>
@@ -78,15 +105,6 @@
     <lastmod>2023-04-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://shuaiyu-chen.com/tags/mutual-fund/</loc>
-    <lastmod>2023-04-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://shuaiyu-chen.com/publication_types/</loc>
-    <lastmod>2023-04-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://shuaiyu-chen.com/publication/</loc>
-    <lastmod>2023-04-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://shuaiyu-chen.com/tags/</loc>
     <lastmod>2023-04-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://shuaiyu-chen.com/authors/with-hendrik-bessembinder/</loc>
@@ -152,9 +170,6 @@
     <loc>https://shuaiyu-chen.com/publication/institutional-investors-and-media-coverage/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://shuaiyu-chen.com/tags/fund-flow/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://shuaiyu-chen.com/tags/institutional-investor/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -200,10 +215,10 @@
     <loc>https://shuaiyu-chen.com/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://shuaiyu-chen.com/project/robotics/</loc>
+    <loc>https://shuaiyu-chen.com/tags/robotics/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://shuaiyu-chen.com/tags/robotics/</loc>
+    <loc>https://shuaiyu-chen.com/project/robotics/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://shuaiyu-chen.com/project/skin-cancer-ai/</loc>

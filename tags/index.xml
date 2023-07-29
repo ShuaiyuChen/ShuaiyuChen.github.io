@@ -7,10 +7,46 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>© Shuaiyu Chen 2021</copyright>
-    <lastBuildDate>Mon, 17 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jul 2023 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://shuaiyu-chen.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ESG</title>
+      <link>https://shuaiyu-chen.com/tags/esg/</link>
+      <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://shuaiyu-chen.com/tags/esg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fund flow</title>
+      <link>https://shuaiyu-chen.com/tags/fund-flow/</link>
+      <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://shuaiyu-chen.com/tags/fund-flow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine learning</title>
+      <link>https://shuaiyu-chen.com/tags/machine-learning/</link>
+      <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://shuaiyu-chen.com/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Value-added</title>
+      <link>https://shuaiyu-chen.com/tags/value-added/</link>
+      <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://shuaiyu-chen.com/tags/value-added/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>flow-performance sensitivity</title>
@@ -171,15 +207,6 @@
       <pubDate>Fri, 18 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>https://shuaiyu-chen.com/tags/market-predictability/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>fund flow</title>
-      <link>https://shuaiyu-chen.com/tags/fund-flow/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://shuaiyu-chen.com/tags/fund-flow/</guid>
       <description></description>
     </item>
     

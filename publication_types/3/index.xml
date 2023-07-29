@@ -7,7 +7,7 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>© Shuaiyu Chen 2021</copyright>
-    <lastBuildDate>Mon, 17 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jul 2023 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://shuaiyu-chen.com/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     
@@ -27,6 +27,15 @@
       <pubDate>Fri, 18 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>https://shuaiyu-chen.com/publication/active-fund-and-market-predictability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine-Learning about ESG Preferences: Evidence from Fund Flows</title>
+      <link>https://shuaiyu-chen.com/publication/machine-learning-about-esg-preference/</link>
+      <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://shuaiyu-chen.com/publication/machine-learning-about-esg-preference/</guid>
       <description></description>
     </item>
     
