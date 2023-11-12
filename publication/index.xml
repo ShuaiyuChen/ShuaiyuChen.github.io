@@ -7,7 +7,7 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>© Shuaiyu Chen 2021</copyright>
-    <lastBuildDate>Fri, 28 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Oct 2023 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://shuaiyu-chen.com/publication/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Volatility Timing Using ETF Options: Evidence from Hedge Funds</title>
       <link>https://shuaiyu-chen.com/publication/volatility-timing-using-etf-options-evidence-from-hedge-funds/</link>
-      <pubDate>Sun, 12 Mar 2023 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 12 Oct 2023 00:00:00 +0000</pubDate>
       
       <guid>https://shuaiyu-chen.com/publication/volatility-timing-using-etf-options-evidence-from-hedge-funds/</guid>
       <description></description>
@@ -31,6 +31,24 @@
     </item>
     
     <item>
+      <title>Market Power in the Securities Lending Market</title>
+      <link>https://shuaiyu-chen.com/publication/market-power-in-the-securities-lending-market/</link>
+      <pubDate>Sat, 21 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://shuaiyu-chen.com/publication/market-power-in-the-securities-lending-market/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mutual Fund Flows and Investor Disappointment</title>
+      <link>https://shuaiyu-chen.com/publication/mutual-fund-flows-and-investor-disappointment/</link>
+      <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://shuaiyu-chen.com/publication/mutual-fund-flows-and-investor-disappointment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Machine-Learning about ESG Preferences: Evidence from Fund Flows</title>
       <link>https://shuaiyu-chen.com/publication/machine-learning-about-esg-preference/</link>
       <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
@@ -40,20 +58,11 @@
     </item>
     
     <item>
-      <title>Market Power in the Securities Lending Market</title>
-      <link>https://shuaiyu-chen.com/publication/market-power-in-the-securities-lending-market/</link>
-      <pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate>
+      <title>Hedge Fund Option Usage and Skewness Risk Premium</title>
+      <link>https://shuaiyu-chen.com/publication/hedge-fund-option-usage-and-skewness-risk-premium/</link>
+      <pubDate>Thu, 29 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://shuaiyu-chen.com/publication/market-power-in-the-securities-lending-market/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mutual Fund Flows and Investor Disappointment</title>
-      <link>https://shuaiyu-chen.com/publication/mutual-fund-flows-and-investor-disappointment/</link>
-      <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://shuaiyu-chen.com/publication/mutual-fund-flows-and-investor-disappointment/</guid>
+      <guid>https://shuaiyu-chen.com/publication/hedge-fund-option-usage-and-skewness-risk-premium/</guid>
       <description></description>
     </item>
     
