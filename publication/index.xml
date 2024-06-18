@@ -7,7 +7,7 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>© Shuaiyu Chen 2021</copyright>
-    <lastBuildDate>Sat, 21 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Jun 2024 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://shuaiyu-chen.com/publication/index.xml" rel="self" type="application/rss+xml" />
     
@@ -36,6 +36,24 @@
       <pubDate>Sat, 21 Oct 2023 00:00:00 +0000</pubDate>
       
       <guid>https://shuaiyu-chen.com/publication/market-power-in-the-securities-lending-market/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wisdom or Whims? Decoding Investor Trading Strategies with Large Language Models</title>
+      <link>https://shuaiyu-chen.com/publication/wisdom-or-whims-decoding-investor-trading-strategies-with-large-language-models/</link>
+      <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://shuaiyu-chen.com/publication/wisdom-or-whims-decoding-investor-trading-strategies-with-large-language-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unveiling Mutual Funds&#39; Securities Lending Strategies: Value versus Volume</title>
+      <link>https://shuaiyu-chen.com/publication/unveiling-mutual-funds-securities-lending-strategies-value-versus-volume/</link>
+      <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://shuaiyu-chen.com/publication/unveiling-mutual-funds-securities-lending-strategies-value-versus-volume/</guid>
       <description></description>
     </item>
     
