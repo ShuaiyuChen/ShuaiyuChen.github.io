@@ -7,7 +7,7 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>© Shuaiyu Chen 2021</copyright>
-    <lastBuildDate>Sat, 24 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Aug 2024 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://shuaiyu-chen.com/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     
@@ -31,20 +31,29 @@
     </item>
     
     <item>
-      <title>Mutual Fund Flows at Long Horizons</title>
-      <link>https://shuaiyu-chen.com/publication/mutual-fund-flows-at-long-horizons/</link>
-      <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
+      <title>What Does ChatGPT Make of Historical Stock Returns? Extrapolation and Miscalibration in LLM Stock Return Forecasts</title>
+      <link>https://shuaiyu-chen.com/publication/what-does-chatgpt-make-of-historical-stock-returns-extrapolation-and-miscalibration-in-llm-stock-return-forecasts/</link>
+      <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://shuaiyu-chen.com/publication/mutual-fund-flows-at-long-horizons/</guid>
+      <guid>https://shuaiyu-chen.com/publication/what-does-chatgpt-make-of-historical-stock-returns-extrapolation-and-miscalibration-in-llm-stock-return-forecasts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wisdom or Whims? Decoding Investor Trading Strategies with Large Language Models</title>
       <link>https://shuaiyu-chen.com/publication/wisdom-or-whims-decoding-investor-trading-strategies-with-large-language-models/</link>
-      <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
       
       <guid>https://shuaiyu-chen.com/publication/wisdom-or-whims-decoding-investor-trading-strategies-with-large-language-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mutual Fund Flows at Long Horizons</title>
+      <link>https://shuaiyu-chen.com/publication/mutual-fund-flows-at-long-horizons/</link>
+      <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://shuaiyu-chen.com/publication/mutual-fund-flows-at-long-horizons/</guid>
       <description></description>
     </item>
     
@@ -96,7 +105,7 @@
     <item>
       <title>Market Power in the Securities Lending Market</title>
       <link>https://shuaiyu-chen.com/publication/market-power-in-the-securities-lending-market/</link>
-      <pubDate>Tue, 18 Jun 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 31 Aug 2024 00:00:00 +0000</pubDate>
       
       <guid>https://shuaiyu-chen.com/publication/market-power-in-the-securities-lending-market/</guid>
       <description></description>

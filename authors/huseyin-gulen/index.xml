@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Fundamental analysis on Shuaiyu Chen</title>
-    <link>https://shuaiyu-chen.com/tags/fundamental-analysis/</link>
-    <description>Recent content in Fundamental analysis on Shuaiyu Chen</description>
+    <title>Huseyin Gulen on Shuaiyu Chen</title>
+    <link>https://shuaiyu-chen.com/authors/huseyin-gulen/</link>
+    <description>Recent content in Huseyin Gulen on Shuaiyu Chen</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>© Shuaiyu Chen 2021</copyright>
     <lastBuildDate>Fri, 30 Aug 2024 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://shuaiyu-chen.com/tags/fundamental-analysis/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://shuaiyu-chen.com/authors/huseyin-gulen/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
       
       <guid>https://shuaiyu-chen.com/publication/what-does-chatgpt-make-of-historical-stock-returns-extrapolation-and-miscalibration-in-llm-stock-return-forecasts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Wisdom or Whims? Decoding Investor Trading Strategies with Large Language Models</title>
-      <link>https://shuaiyu-chen.com/publication/wisdom-or-whims-decoding-investor-trading-strategies-with-large-language-models/</link>
-      <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://shuaiyu-chen.com/publication/wisdom-or-whims-decoding-investor-trading-strategies-with-large-language-models/</guid>
       <description></description>
     </item>
     
