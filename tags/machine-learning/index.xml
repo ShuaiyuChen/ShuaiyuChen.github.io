@@ -7,19 +7,10 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>© Shuaiyu Chen 2021</copyright>
-    <lastBuildDate>Wed, 26 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Aug 2024 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://shuaiyu-chen.com/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Subjective Expectations for Variance and Skewness: Evidence from Analyst Forecasts</title>
-      <link>https://shuaiyu-chen.com/publication/subjective-expectations-for-variance-and-skewness-evidence-from-analyst-forecasts/</link>
-      <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://shuaiyu-chen.com/publication/subjective-expectations-for-variance-and-skewness-evidence-from-analyst-forecasts/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Machine-Learning about ESG Preferences: Evidence from Fund Flows</title>
@@ -27,6 +18,15 @@
       <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
       
       <guid>https://shuaiyu-chen.com/publication/machine-learning-about-esg-preference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Subjective Expectations for Variance and Skewness: Evidence from Analyst Forecasts</title>
+      <link>https://shuaiyu-chen.com/publication/subjective-expectations-for-variance-and-skewness-evidence-from-analyst-forecasts/</link>
+      <pubDate>Fri, 26 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://shuaiyu-chen.com/publication/subjective-expectations-for-variance-and-skewness-evidence-from-analyst-forecasts/</guid>
       <description></description>
     </item>
     

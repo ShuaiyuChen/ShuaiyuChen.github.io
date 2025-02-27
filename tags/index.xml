@@ -7,73 +7,10 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>© Shuaiyu Chen 2021</copyright>
-    <lastBuildDate>Wed, 26 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Aug 2024 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://shuaiyu-chen.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>analysts</title>
-      <link>https://shuaiyu-chen.com/tags/analysts/</link>
-      <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://shuaiyu-chen.com/tags/analysts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>large language model</title>
-      <link>https://shuaiyu-chen.com/tags/large-language-model/</link>
-      <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://shuaiyu-chen.com/tags/large-language-model/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Machine learning</title>
-      <link>https://shuaiyu-chen.com/tags/machine-learning/</link>
-      <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://shuaiyu-chen.com/tags/machine-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>option returns</title>
-      <link>https://shuaiyu-chen.com/tags/option-returns/</link>
-      <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://shuaiyu-chen.com/tags/option-returns/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>skewness</title>
-      <link>https://shuaiyu-chen.com/tags/skewness/</link>
-      <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://shuaiyu-chen.com/tags/skewness/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Subjective expectations</title>
-      <link>https://shuaiyu-chen.com/tags/subjective-expectations/</link>
-      <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://shuaiyu-chen.com/tags/subjective-expectations/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>variance</title>
-      <link>https://shuaiyu-chen.com/tags/variance/</link>
-      <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://shuaiyu-chen.com/tags/variance/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>custodian lenders</title>
@@ -144,6 +81,15 @@
       <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
       
       <guid>https://shuaiyu-chen.com/tags/fund-flow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine learning</title>
+      <link>https://shuaiyu-chen.com/tags/machine-learning/</link>
+      <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://shuaiyu-chen.com/tags/machine-learning/</guid>
       <description></description>
     </item>
     
@@ -234,6 +180,60 @@
       <pubDate>Thu, 15 Aug 2024 00:00:00 +0000</pubDate>
       
       <guid>https://shuaiyu-chen.com/tags/skewness-risk-premium/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>analysts</title>
+      <link>https://shuaiyu-chen.com/tags/analysts/</link>
+      <pubDate>Fri, 26 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://shuaiyu-chen.com/tags/analysts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>large language model</title>
+      <link>https://shuaiyu-chen.com/tags/large-language-model/</link>
+      <pubDate>Fri, 26 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://shuaiyu-chen.com/tags/large-language-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>option returns</title>
+      <link>https://shuaiyu-chen.com/tags/option-returns/</link>
+      <pubDate>Fri, 26 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://shuaiyu-chen.com/tags/option-returns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>skewness</title>
+      <link>https://shuaiyu-chen.com/tags/skewness/</link>
+      <pubDate>Fri, 26 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://shuaiyu-chen.com/tags/skewness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Subjective expectations</title>
+      <link>https://shuaiyu-chen.com/tags/subjective-expectations/</link>
+      <pubDate>Fri, 26 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://shuaiyu-chen.com/tags/subjective-expectations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>variance</title>
+      <link>https://shuaiyu-chen.com/tags/variance/</link>
+      <pubDate>Fri, 26 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://shuaiyu-chen.com/tags/variance/</guid>
       <description></description>
     </item>
     
