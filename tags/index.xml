@@ -103,24 +103,6 @@
     </item>
     
     <item>
-      <title>BERT</title>
-      <link>https://shuaiyu-chen.com/tags/bert/</link>
-      <pubDate>Tue, 27 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://shuaiyu-chen.com/tags/bert/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ChatGPT</title>
-      <link>https://shuaiyu-chen.com/tags/chatgpt/</link>
-      <pubDate>Tue, 27 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://shuaiyu-chen.com/tags/chatgpt/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Fundamental analysis</title>
       <link>https://shuaiyu-chen.com/tags/fundamental-analysis/</link>
       <pubDate>Tue, 27 Aug 2024 00:00:00 +0000</pubDate>
@@ -130,11 +112,29 @@
     </item>
     
     <item>
-      <title>retail investors</title>
-      <link>https://shuaiyu-chen.com/tags/retail-investors/</link>
+      <title>Herding</title>
+      <link>https://shuaiyu-chen.com/tags/herding/</link>
       <pubDate>Tue, 27 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://shuaiyu-chen.com/tags/retail-investors/</guid>
+      <guid>https://shuaiyu-chen.com/tags/herding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Retail trading</title>
+      <link>https://shuaiyu-chen.com/tags/retail-trading/</link>
+      <pubDate>Tue, 27 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://shuaiyu-chen.com/tags/retail-trading/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social finance</title>
+      <link>https://shuaiyu-chen.com/tags/social-finance/</link>
+      <pubDate>Tue, 27 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://shuaiyu-chen.com/tags/social-finance/</guid>
       <description></description>
     </item>
     
@@ -207,6 +207,33 @@
       <pubDate>Thu, 15 Aug 2024 00:00:00 +0000</pubDate>
       
       <guid>https://shuaiyu-chen.com/tags/skewness-risk-premium/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BERT</title>
+      <link>https://shuaiyu-chen.com/tags/bert/</link>
+      <pubDate>Tue, 30 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://shuaiyu-chen.com/tags/bert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ChatGPT</title>
+      <link>https://shuaiyu-chen.com/tags/chatgpt/</link>
+      <pubDate>Tue, 30 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://shuaiyu-chen.com/tags/chatgpt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>retail investors</title>
+      <link>https://shuaiyu-chen.com/tags/retail-investors/</link>
+      <pubDate>Tue, 30 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://shuaiyu-chen.com/tags/retail-investors/</guid>
       <description></description>
     </item>
     
