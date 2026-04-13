@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>with George O. Aragon on Shuaiyu Chen</title>
+    <title>With George O. Aragon on Shuaiyu Chen</title>
     <link>https://shuaiyu-chen.com/authors/with-george-o.-aragon/</link>
-    <description>Recent content in with George O. Aragon on Shuaiyu Chen</description>
+    <description>Recent content in With George O. Aragon on Shuaiyu Chen</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
+    <managingEditor>chen4144@purdue.edu (Shuaiyu Chen)</managingEditor>
+    <webMaster>chen4144@purdue.edu (Shuaiyu Chen)</webMaster>
     <copyright>© Shuaiyu Chen 2021</copyright>
     <lastBuildDate>Sun, 22 Mar 2026 00:00:00 +0000</lastBuildDate>
     
@@ -16,7 +18,7 @@
       <title>Machine-Learning about ESG Preferences: Evidence from Fund Flows</title>
       <link>https://shuaiyu-chen.com/publication/machine-learning-about-esg-preference/</link>
       <pubDate>Sun, 22 Mar 2026 00:00:00 +0000</pubDate>
-      
+      <author>chen4144@purdue.edu (Shuaiyu Chen)</author>
       <guid>https://shuaiyu-chen.com/publication/machine-learning-about-esg-preference/</guid>
       <description></description>
     </item>

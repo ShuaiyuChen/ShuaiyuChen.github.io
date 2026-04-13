@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="generator" content="Source Themes Academia 4.3.1">
-  <meta name="generator" content="Hugo 0.115.4">
+  <meta name="generator" content="Hugo 0.160.1">
 
   
 
@@ -83,7 +83,7 @@
   
   
   
-  <link rel="stylesheet" href="/css/academia.min.2abf556940d9966929b67acd2f5a3c01.css">
+  <link rel="stylesheet" href="/css/academia.min.635bfe7d24609c0e7bff1aebff346be0.css">
 
   
 
@@ -316,91 +316,38 @@
 
   
 
-<div class="container-fluid docs">
-  <div class="row flex-xl-nowrap">
-    <div class="col-12 col-md-3 col-xl-2 docs-sidebar">
-      
 
 
 
 
 
-<form class="docs-search d-flex align-items-center">
-  <button class="btn docs-toggle d-md-none p-0 mr-3" type="button" data-toggle="collapse" data-target="#docs-nav" aria-controls="docs-nav" aria-expanded="false" aria-label="Toggle section navigation">
-    <span><i class="fas fa-bars"></i></span>
-  </button>
 
-  
-</form>
 
-<nav class="collapse docs-links" id="docs-nav">
-  
-  
-  <div class="docs-toc-item active">
-    <a class="docs-toc-link" href="/courses/example/">Overview</a>
 
-  </div>
-  
-  <div class="docs-toc-item">
-    <a class="docs-toc-link" href="/courses/example.1/">Overview 2</a>
 
-  </div>
-  
-  <div class="docs-toc-item">
-    <a class="docs-toc-link" href="/courses/example.2/">Overview 3</a>
 
-  </div>
-  
-  <div class="docs-toc-item">
-    <a class="docs-toc-link" href="/courses/example/example1/">Example Topic</a>
-    <ul class="nav docs-sidenav">
-      
-      <li >
-        <a href="/courses/example/example1/">Tips 1-2</a>
-      </li>
-      
-      <li >
-        <a href="/courses/example/example2/">Tips 3-4</a>
-      </li>
-      
-    </ul>
-    
-
-  </div>
-  
-  
-</nav>
-
-    </div>
 
     
-    <div class="d-none d-xl-block col-xl-2 docs-toc">
-      <ul class="nav toc-top">
-        <li><a href="#" id="back_to_top" class="docs-toc-title">Contents</a></li>
-      </ul>
 
-      <nav id="TableOfContents">
-  <ul>
-    <li><a href="#flexibility">Flexibility</a></li>
-    <li><a href="#delete-tutorials">Delete tutorials</a></li>
-    <li><a href="#update-site-menu">Update site menu</a></li>
-    <li><a href="#update-the-docs-menu">Update the docs menu</a></li>
-  </ul>
-</nav>
+    
+    
+    
+    
+    
+    <div class="universal-wrapper py-3">
+      <h1 itemprop="name" style="text-align: center;">Overview</h1>
 
+      
+
+      
       
     </div>
-    
+  </div>
+</div>
 
-    <main class="col-12 col-md-9 col-xl-8 py-md-3 pl-md-5 docs-content" role="main">
-
-      <article class="article" itemscope itemtype="http://schema.org/Article">
-
-        <div class="docs-article-container">
-          <h1 itemprop="name">Overview</h1>
-
-          <div class="article-style" itemprop="articleBody">
-            <h2 id="flexibility">Flexibility</h2>
+<div class="universal-wrapper">
+  
+  <div class="article-style" itemprop="articleBody"><h2 id="flexibility">Flexibility</h2>
 <p>This feature can be used for publishing content such as:</p>
 <ul>
 <li><strong>Online courses</strong></li>
@@ -413,52 +360,23 @@
 <h2 id="update-site-menu">Update site menu</h2>
 <p>After renaming or deleting the <code>courses</code> folder, you may wish to update any <code>[[main]]</code> menu links to it by editing your menu configuration at <code>config/_default/menus.toml</code>.</p>
 <p>For example, if you delete this folder, you can remove the following from your menu configuration:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-toml" data-lang="toml"><span style="display:flex;"><span>[[<span style="color:#a6e22e">main</span>]]
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"><code class="language-toml" data-lang="toml"><span style="display:flex;"><span>[[<span style="color:#a6e22e">main</span>]]
 </span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">name</span> = <span style="color:#e6db74">&#34;Courses&#34;</span>
 </span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">url</span> = <span style="color:#e6db74">&#34;courses/&#34;</span>
 </span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">weight</span> = <span style="color:#ae81ff">50</span>
 </span></span></code></pre></div><p>Or, if you are creating a software documentation site, you can rename the <code>courses</code> folder to <code>docs</code> and update the associated <em>Courses</em> menu configuration to:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-toml" data-lang="toml"><span style="display:flex;"><span>[[<span style="color:#a6e22e">main</span>]]
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"><code class="language-toml" data-lang="toml"><span style="display:flex;"><span>[[<span style="color:#a6e22e">main</span>]]
 </span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">name</span> = <span style="color:#e6db74">&#34;Docs&#34;</span>
 </span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">url</span> = <span style="color:#e6db74">&#34;docs/&#34;</span>
 </span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">weight</span> = <span style="color:#ae81ff">50</span>
 </span></span></code></pre></div><h2 id="update-the-docs-menu">Update the docs menu</h2>
 <p>If you use the <em>docs</em> layout, note that the name of the menu in the front matter should be in the form <code>[menu.X]</code> where <code>X</code> is the folder name. Hence, if you rename the <code>courses/example/</code> folder, you should also rename the menu definitions in the front matter of files within <code>courses/example/</code> from <code>[menu.example]</code> to <code>[menu.&lt;NewFolderName&gt;]</code>.</p>
-
-          </div>
-
-          
-
-
-
-          
-          <div class="article-widget">
-            
-<div class="post-nav">
-  
-  
 </div>
-
-          </div>
-          
-        </div>
-
-        <div class="body-footer">
-          Last updated on Sep 9, 2018
-        </div>
-
-      </article>
-
-      <footer class="site-footer">
-  <div class="container">
+  
+  <ul class="list-unstyled">
     
-  </div>
-</footer>
-
-    </main>
-  </div>
+  </ul>
 </div>
-
 
       
 
@@ -532,7 +450,7 @@
     
     
     
-    <script src="/js/academia.min.6c2ba2801d406881b3c2277043cedd76.js"></script>
+    <script src="/js/academia.min.f51a86447141287a8c7c53e5ef50845a.js"></script>
 
     
 

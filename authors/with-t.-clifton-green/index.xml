@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>with T. Clifton Green on Shuaiyu Chen</title>
+    <title>With T. Clifton Green on Shuaiyu Chen</title>
     <link>https://shuaiyu-chen.com/authors/with-t.-clifton-green/</link>
-    <description>Recent content in with T. Clifton Green on Shuaiyu Chen</description>
+    <description>Recent content in With T. Clifton Green on Shuaiyu Chen</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
+    <managingEditor>chen4144@purdue.edu (Shuaiyu Chen)</managingEditor>
+    <webMaster>chen4144@purdue.edu (Shuaiyu Chen)</webMaster>
     <copyright>© Shuaiyu Chen 2021</copyright>
     <lastBuildDate>Tue, 09 Sep 2025 00:00:00 +0000</lastBuildDate>
     
@@ -16,7 +18,7 @@
       <title>What Does ChatGPT Make of Historical Stock Returns? Extrapolation and Miscalibration in LLM Stock Return Forecasts</title>
       <link>https://shuaiyu-chen.com/publication/what-does-chatgpt-make-of-historical-stock-returns-extrapolation-and-miscalibration-in-llm-stock-return-forecasts/</link>
       <pubDate>Tue, 09 Sep 2025 00:00:00 +0000</pubDate>
-      
+      <author>chen4144@purdue.edu (Shuaiyu Chen)</author>
       <guid>https://shuaiyu-chen.com/publication/what-does-chatgpt-make-of-historical-stock-returns-extrapolation-and-miscalibration-in-llm-stock-return-forecasts/</guid>
       <description></description>
     </item>

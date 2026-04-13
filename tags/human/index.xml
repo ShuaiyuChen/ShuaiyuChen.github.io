@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>human on Shuaiyu Chen</title>
+    <title>Human on Shuaiyu Chen</title>
     <link>https://shuaiyu-chen.com/tags/human/</link>
-    <description>Recent content in human on Shuaiyu Chen</description>
+    <description>Recent content in Human on Shuaiyu Chen</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
+    <managingEditor>chen4144@purdue.edu (Shuaiyu Chen)</managingEditor>
+    <webMaster>chen4144@purdue.edu (Shuaiyu Chen)</webMaster>
     <copyright>© Shuaiyu Chen 2021</copyright>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     
@@ -16,7 +18,7 @@
       <title>Skin Cancer AI</title>
       <link>https://shuaiyu-chen.com/project/skin-cancer-ai/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
+      <author>chen4144@purdue.edu (Shuaiyu Chen)</author>
       <guid>https://shuaiyu-chen.com/project/skin-cancer-ai/</guid>
       <description></description>
     </item>

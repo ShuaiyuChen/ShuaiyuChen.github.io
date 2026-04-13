@@ -6,6 +6,8 @@
     <description>Recent content in Demo on Shuaiyu Chen</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
+    <managingEditor>chen4144@purdue.edu (Shuaiyu Chen)</managingEditor>
+    <webMaster>chen4144@purdue.edu (Shuaiyu Chen)</webMaster>
     <copyright>© Shuaiyu Chen 2021</copyright>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     
@@ -16,7 +18,7 @@
       <title>Artificial Intelligence</title>
       <link>https://shuaiyu-chen.com/project/artificial-intelligence/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
+      <author>chen4144@purdue.edu (Shuaiyu Chen)</author>
       <guid>https://shuaiyu-chen.com/project/artificial-intelligence/</guid>
       <description></description>
     </item>
@@ -25,7 +27,7 @@
       <title>Deep Learning</title>
       <link>https://shuaiyu-chen.com/project/deep-learning/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
+      <author>chen4144@purdue.edu (Shuaiyu Chen)</author>
       <guid>https://shuaiyu-chen.com/project/deep-learning/</guid>
       <description></description>
     </item>
@@ -34,7 +36,7 @@
       <title>External Project</title>
       <link>https://shuaiyu-chen.com/project/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
+      <author>chen4144@purdue.edu (Shuaiyu Chen)</author>
       <guid>https://shuaiyu-chen.com/project/external-project/</guid>
       <description></description>
     </item>
