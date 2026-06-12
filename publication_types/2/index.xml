@@ -8,8 +8,8 @@
     <language>en-us</language>
     <managingEditor>chen4144@purdue.edu (Shuaiyu Chen)</managingEditor>
     <webMaster>chen4144@purdue.edu (Shuaiyu Chen)</webMaster>
-    <copyright>© Shuaiyu Chen 2021</copyright>
-    <lastBuildDate>Sun, 22 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <copyright>© Shuaiyu Chen {year}</copyright>
+    <lastBuildDate>Mon, 25 May 2026 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://shuaiyu-chen.com/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
@@ -17,7 +17,7 @@
     <item>
       <title>Mutual Fund Flows at Long Horizons</title>
       <link>https://shuaiyu-chen.com/publication/mutual-fund-flows-at-long-horizons/</link>
-      <pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
       <author>chen4144@purdue.edu (Shuaiyu Chen)</author>
       <guid>https://shuaiyu-chen.com/publication/mutual-fund-flows-at-long-horizons/</guid>
       <description></description>

@@ -8,8 +8,8 @@
     <language>en-us</language>
     <managingEditor>chen4144@purdue.edu (Shuaiyu Chen)</managingEditor>
     <webMaster>chen4144@purdue.edu (Shuaiyu Chen)</webMaster>
-    <copyright>© Shuaiyu Chen 2021</copyright>
-    <lastBuildDate>Fri, 18 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <copyright>© Shuaiyu Chen {year}</copyright>
+    <lastBuildDate>Wed, 10 Jun 2026 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://shuaiyu-chen.com/tags/market-efficiency/index.xml" rel="self" type="application/rss+xml" />
     
@@ -20,6 +20,15 @@
       <pubDate>Fri, 18 Feb 2022 00:00:00 +0000</pubDate>
       <author>chen4144@purdue.edu (Shuaiyu Chen)</author>
       <guid>https://shuaiyu-chen.com/publication/active-fund-and-market-predictability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unveiling Mutual Funds&#39; Securities Lending</title>
+      <link>https://shuaiyu-chen.com/publication/unveiling-mutual-funds-securities-lending-strategies-value-versus-volume/</link>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
+      <author>chen4144@purdue.edu (Shuaiyu Chen)</author>
+      <guid>https://shuaiyu-chen.com/publication/unveiling-mutual-funds-securities-lending-strategies-value-versus-volume/</guid>
       <description></description>
     </item>
     

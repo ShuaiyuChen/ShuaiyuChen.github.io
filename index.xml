@@ -8,54 +8,36 @@
     <language>en-us</language>
     <managingEditor>chen4144@purdue.edu (Shuaiyu Chen)</managingEditor>
     <webMaster>chen4144@purdue.edu (Shuaiyu Chen)</webMaster>
-    <copyright>© Shuaiyu Chen 2021</copyright>
-    <lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <copyright>© Shuaiyu Chen {year}</copyright>
+    <lastBuildDate>Wed, 10 Jun 2026 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://shuaiyu-chen.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>https://shuaiyu-chen.com/talk/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <author>chen4144@purdue.edu (Shuaiyu Chen)</author>
-      <guid>https://shuaiyu-chen.com/talk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Publications</title>
       <link>https://shuaiyu-chen.com/publication/</link>
-      <pubDate>Sun, 22 Mar 2026 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
       <author>chen4144@purdue.edu (Shuaiyu Chen)</author>
       <guid>https://shuaiyu-chen.com/publication/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Slides</title>
-      <link>https://shuaiyu-chen.com/slides/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <author>chen4144@purdue.edu (Shuaiyu Chen)</author>
-      <guid>https://shuaiyu-chen.com/slides/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>https://shuaiyu-chen.com/project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <author>chen4144@purdue.edu (Shuaiyu Chen)</author>
-      <guid>https://shuaiyu-chen.com/project/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Posts</title>
       <link>https://shuaiyu-chen.com/post/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>chen4144@purdue.edu (Shuaiyu Chen)</author>
       <guid>https://shuaiyu-chen.com/post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://shuaiyu-chen.com/talk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>chen4144@purdue.edu (Shuaiyu Chen)</author>
+      <guid>https://shuaiyu-chen.com/talk/</guid>
       <description></description>
     </item>
     

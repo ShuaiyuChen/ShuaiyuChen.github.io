@@ -8,7 +8,7 @@
     <language>en-us</language>
     <managingEditor>chen4144@purdue.edu (Shuaiyu Chen)</managingEditor>
     <webMaster>chen4144@purdue.edu (Shuaiyu Chen)</webMaster>
-    <copyright>© Shuaiyu Chen 2021</copyright>
+    <copyright>© Shuaiyu Chen {year}</copyright>
     
 	    <atom:link href="https://shuaiyu-chen.com/categories/index.xml" rel="self" type="application/rss+xml" />
     

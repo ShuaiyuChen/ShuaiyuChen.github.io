@@ -8,27 +8,27 @@
     <language>en-us</language>
     <managingEditor>chen4144@purdue.edu (Shuaiyu Chen)</managingEditor>
     <webMaster>chen4144@purdue.edu (Shuaiyu Chen)</webMaster>
-    <copyright>© Shuaiyu Chen 2021</copyright>
-    <lastBuildDate>Sun, 22 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <copyright>© Shuaiyu Chen {year}</copyright>
+    <lastBuildDate>Wed, 10 Jun 2026 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://shuaiyu-chen.com/publication_types/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>2</title>
-      <link>https://shuaiyu-chen.com/publication_types/2/</link>
-      <pubDate>Sun, 22 Mar 2026 00:00:00 +0000</pubDate>
+      <title>3</title>
+      <link>https://shuaiyu-chen.com/publication_types/3/</link>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
       <author>chen4144@purdue.edu (Shuaiyu Chen)</author>
-      <guid>https://shuaiyu-chen.com/publication_types/2/</guid>
+      <guid>https://shuaiyu-chen.com/publication_types/3/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>3</title>
-      <link>https://shuaiyu-chen.com/publication_types/3/</link>
-      <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
+      <title>2</title>
+      <link>https://shuaiyu-chen.com/publication_types/2/</link>
+      <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
       <author>chen4144@purdue.edu (Shuaiyu Chen)</author>
-      <guid>https://shuaiyu-chen.com/publication_types/3/</guid>
+      <guid>https://shuaiyu-chen.com/publication_types/2/</guid>
       <description></description>
     </item>
     
