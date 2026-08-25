@@ -9,10 +9,55 @@
     <managingEditor>chen4144@purdue.edu (Shuaiyu Chen)</managingEditor>
     <webMaster>chen4144@purdue.edu (Shuaiyu Chen)</webMaster>
     <copyright>© Shuaiyu Chen {year}</copyright>
-    <lastBuildDate>Tue, 16 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://shuaiyu-chen.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Earnings Announcements</title>
+      <link>https://shuaiyu-chen.com/tags/earnings-announcements/</link>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+      <author>chen4144@purdue.edu (Shuaiyu Chen)</author>
+      <guid>https://shuaiyu-chen.com/tags/earnings-announcements/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Informed Trading</title>
+      <link>https://shuaiyu-chen.com/tags/informed-trading/</link>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+      <author>chen4144@purdue.edu (Shuaiyu Chen)</author>
+      <guid>https://shuaiyu-chen.com/tags/informed-trading/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Short Selling</title>
+      <link>https://shuaiyu-chen.com/tags/short-selling/</link>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+      <author>chen4144@purdue.edu (Shuaiyu Chen)</author>
+      <guid>https://shuaiyu-chen.com/tags/short-selling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trade Duration</title>
+      <link>https://shuaiyu-chen.com/tags/trade-duration/</link>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+      <author>chen4144@purdue.edu (Shuaiyu Chen)</author>
+      <guid>https://shuaiyu-chen.com/tags/trade-duration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trading Profitability</title>
+      <link>https://shuaiyu-chen.com/tags/trading-profitability/</link>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+      <author>chen4144@purdue.edu (Shuaiyu Chen)</author>
+      <guid>https://shuaiyu-chen.com/tags/trading-profitability/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Asymmetric Information</title>
@@ -38,15 +83,6 @@
       <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
       <author>chen4144@purdue.edu (Shuaiyu Chen)</author>
       <guid>https://shuaiyu-chen.com/tags/market-power/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Short Selling</title>
-      <link>https://shuaiyu-chen.com/tags/short-selling/</link>
-      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
-      <author>chen4144@purdue.edu (Shuaiyu Chen)</author>
-      <guid>https://shuaiyu-chen.com/tags/short-selling/</guid>
       <description></description>
     </item>
     

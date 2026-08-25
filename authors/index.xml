@@ -9,10 +9,19 @@
     <managingEditor>chen4144@purdue.edu (Shuaiyu Chen)</managingEditor>
     <webMaster>chen4144@purdue.edu (Shuaiyu Chen)</webMaster>
     <copyright>© Shuaiyu Chen {year}</copyright>
-    <lastBuildDate>Tue, 16 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://shuaiyu-chen.com/authors/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>With Qifei Zhu</title>
+      <link>https://shuaiyu-chen.com/authors/with-qifei-zhu/</link>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+      <author>chen4144@purdue.edu (Shuaiyu Chen)</author>
+      <guid>https://shuaiyu-chen.com/authors/with-qifei-zhu/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>With Ron Kaniel and Christian C. Opp</title>
